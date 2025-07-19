@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diff>
 
-    <!-- RoR Repositions -->
+        <!-- RoR Repositions -->
     <!-- Reposition Event Horizon -->
     <replace
         sel="/macros/macro[@name='XU_EP2_universe_macro']/connections/connection[@name='Cluster_ror4_connection']/offset">
         <offset>
-            <position x="-185000000" y="0" z="184500000" />
+            <position x="-165000000" y="0" z="164540000" />
         </offset>
     </replace>
     <!-- Reposition Holy Ground -->
     <replace
         sel="/macros/macro[@name='XU_EP2_universe_macro']/connections/connection[@name='Cluster_ror3_connection']/offset">
         <offset>
-            <position x="-185000000" y="0" z="201900000" />
+            <position x="-165000000" y="0" z="181860000" />
         </offset>
     </replace>
     <!-- Reposition Theia -->
     <replace
         sel="/macros/macro[@name='XU_EP2_universe_macro']/connections/connection[@name='Cluster_ror1_connection']/offset">
         <offset>
-            <position x="-200000000" y="0" z="158600000" />
+            <position x="-195000000" y="0" z="147220000" />
         </offset>
     </replace>
     <!-- Reposition Triton -->
     <replace
         sel="/macros/macro[@name='XU_EP2_universe_macro']/connections/connection[@name='Cluster_ror2_connection']/offset">
         <offset>
-            <position x="-200000000" y="0" z="175900000" />
+            <position x="-195000000" y="0" z="164540000" />
         </offset>
-    </replace>
+    </replace
 
 
     <!-- ROR Connections -->
